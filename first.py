@@ -1,7 +1,7 @@
 import os
 def sumarray(List1):
   sum=0
-  for i in arr:
+  for i in List1:
     sum=sum+i
   return(sum)
 List1 = [1,2,3,4,5]
